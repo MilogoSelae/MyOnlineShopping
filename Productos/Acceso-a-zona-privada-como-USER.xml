@@ -10,7 +10,7 @@
       <con:properties>
         <con:property>
           <con:name>token_user</con:name>
-          <con:value>eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxLHVzZXJAZW1haWwuY29tIiwicm9sZSI6IlVTRVIiLCJpc3MiOiJjb20ubWljcm9jb21wYW55IiwiaWF0IjoxNzMwOTcwNjQxLCJleHAiOjE3MzEwNTcwNDF9.bRYypDfhCuJ6C-e3J211eXZxWM5XGsFjmoW8YmSkzSFLV5qykNOkrJgJzvfoAQl0i9H3_DYOsDbcAGL4i6UUxw</con:value>
+          <con:value>eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxLHVzZXJAZW1haWwuY29tIiwicm9sZSI6IlVTRVIiLCJpc3MiOiJjb20ubWljcm9jb21wYW55IiwiaWF0IjoxNzMwOTcwMDcwLCJleHAiOjE3MzEwNTY0NzB9.TOJb1kvVGN_KJ7F-DgD1jTabhjRFTh-Tpx1_dL0DlqGo3vYKQQQusr1VkkT13SEjjCPYkd2FInbkIbqZatwW1w</con:value>
         </con:property>
       </con:properties>
       <con:returnProperties>
