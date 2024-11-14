@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-workspace name="My Workspace" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
-  <con:project name="MyOnlineShoppingService" lastOpened="2024-11-14T10:18:15.844+01:00">C:/Curso/workspace/Colaboracion</con:project>
+  <con:project name="MyOnlineShoppingService" lastOpened="2024-11-14T10:25:28.536+01:00">C:/Curso/workspace/Colaboracion</con:project>
+  <con:recentItemCollection>
+    <con:moduleId>SoapUiNGModule</con:moduleId>
+    <con:itemId>7fd28fe0-4202-4ce3-a9a6-3d37187a452e</con:itemId>
+    <con:itemId>61928a68-b42c-4b90-a6bd-ca147b962e84</con:itemId>
+    <con:itemId>f63b9cfe-3d0a-4383-a2b2-4d675f1bd254</con:itemId>
+  </con:recentItemCollection>
   <con:expandedTreeNodes>
     <con:project path="C:\Curso\workspace\Colaboracion"/>
   </con:expandedTreeNodes>
