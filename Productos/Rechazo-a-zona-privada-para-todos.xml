@@ -76,6 +76,41 @@
       </con:restRequest>
     </con:config>
   </con:testStep>
+  <con:testStep type="restrequest" name="getAll con filtros 2" id="2b85312e-1842-41fa-bf2f-f5a612bd625b">
+    <con:settings/>
+    <con:config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" service="Products Management API" resourcePath="/products" methodName="getAll Filtros" xsi:type="con:RestRequestStep">
+      <con:restRequest name="getAll con filtros 2" id="a6664659-abaf-4285-bb53-bd3ff3dd374f" mediaType="application/json">
+        <con:settings>
+          <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
+        </con:settings>
+        <con:endpoint>http://localhost:9090</con:endpoint>
+        <con:request/>
+        <con:originalUri>http://localhost/products</con:originalUri>
+        <con:assertion type="Valid HTTP Status Codes" id="3662ac93-9b02-4348-9fe3-1ef223ca69d2" name="Valid HTTP Status Codes">
+          <con:settings/>
+          <con:configuration>
+            <codes>401</codes>
+          </con:configuration>
+        </con:assertion>
+        <con:assertion type="Response SLA Assertion" id="deaf717f-504c-48e0-8e68-77f1f3cb3ae8" name="Response SLA">
+          <con:configuration>
+            <SLA>200</SLA>
+          </con:configuration>
+        </con:assertion>
+        <con:credentials>
+          <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+          <con:authType>No Authorization</con:authType>
+        </con:credentials>
+        <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
+        <con:parameters>
+          <con:entry key="text" value="Tr"/>
+        </con:parameters>
+        <con:parameterOrder>
+          <con:entry>text</con:entry>
+        </con:parameterOrder>
+      </con:restRequest>
+    </con:config>
+  </con:testStep>
   <con:properties/>
   <con:reportParameters/>
   <con:breakPoints>
