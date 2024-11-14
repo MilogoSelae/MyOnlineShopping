@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="My Workspace" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="MyOnlineShoppingService" lastOpened="2024-11-14T10:18:15.844+01:00">C:/Curso/workspace/Colaboracion</con:project>
+  <con:expandedTreeNodes>
+    <con:project path="C:\Curso\workspace\Colaboracion"/>
+  </con:expandedTreeNodes>
+  <con:overridenPropertyValuesCollection/>
+</con:soapui-workspace>
